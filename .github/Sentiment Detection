@@ -1,0 +1,2 @@
+git add MainWindow.xaml.cs
+git commit -m "Commit 5: Add sentiment detection to respond to user emotions (worried, frustrated, curious, thankful)"

@@ -1,0 +1,2 @@
+git add MainWindow.xaml.cs
+git commit -m "Commit 3: Implement keyword recognition for cybersecurity topics (passwords, phishing, malware, scams, privacy, 2fa, safe browsing)"

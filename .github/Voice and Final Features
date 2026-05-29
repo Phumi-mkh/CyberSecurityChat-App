@@ -1,0 +1,2 @@
+git add MainWindow.xaml.cs MainWindow.xaml
+git commit -m "Commit 6: Add voice output toggle, help menu, follow-up questions, and error handling"

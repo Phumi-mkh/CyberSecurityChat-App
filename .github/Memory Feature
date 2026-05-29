@@ -1,0 +1,2 @@
+git add MainWindow.xaml.cs ChatMemory.cs
+git commit -m "Commit 4: Add memory feature to remember user name and conversation context"

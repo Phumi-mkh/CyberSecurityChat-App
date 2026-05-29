@@ -1,0 +1,2 @@
+git add MainWindow.xaml MainWindow.xaml.cs
+git commit -m "Commit 2: Add core chat functionality with message bubbles and typing indicator"
